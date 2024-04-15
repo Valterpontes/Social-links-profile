@@ -16,7 +16,7 @@ body {
 .container {
     border-radius: 20px;
     width: 500px;
-    height: 770px;
+    height: 690px;
     background-color: hsl(0, 0%, 12%);
     display: flex;
     align-items: center;
